@@ -16,7 +16,6 @@ def test():
     elif request.method == 'POST':
         req_Json = request.json
         name = req_Json['name']
-        # return jsonify({"response": get_tokens(name)})
         return jsonify({"response":imperative_sentences(word_tag_pairs(nlp(name)))})
 
 
