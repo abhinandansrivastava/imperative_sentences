@@ -1,0 +1,5 @@
+spacy==2.2.4
+#en_core_web_sm
+email
+nltk
+flask
