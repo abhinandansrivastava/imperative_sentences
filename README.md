@@ -7,8 +7,13 @@ Basically those kind sentences are imperative in nature.
 
 ---------------------------------------------------------------------------
 Test Via Flask API
-python app.py can be tested throught Postman
+"python app.py" can be tested through Postman
+---------------------------------------------------------------------------
+Future work:
+add more cases for imperative sentences
+Multi threading
 
+---------------------------------------------------------------------------
 
 Reference:
 https://spacy.io/usage/linguistic-features#dependency-parse
