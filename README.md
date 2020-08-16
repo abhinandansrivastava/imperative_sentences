@@ -1,5 +1,5 @@
 # Objective 1
-Detect whether sentence contains actionable chunks with Rule Based Chunking
+### Detect whether sentence contains actionable chunks with Rule Based Chunking
 ---------------------------------------------------------------------------
 
 In this Project, we are trying to find whether the email contains any actionable items or not.
@@ -27,7 +27,7 @@ Test Via Flask API
 ---------------------------------------------------------------------------
 
 # Objective 2
-Use the output from objective 1 and Train a ML Model for predicting actionable sentences.
+### Use the output from objective 1 and Train a ML Model for predicting actionable sentences.
 
 ## Logic 1:
 ### BERT Binary Classification 
