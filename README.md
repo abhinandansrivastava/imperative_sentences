@@ -6,6 +6,8 @@ In this Project, we are trying to find whether the email contains any actionable
 Basically those kind sentences are imperative in nature.
 ---------------------------------------------------------------------------
 ## Logic
+
+```
 Case:1
 if its an interrogative sentence:
 	if pos_tags starts with ["VB","MD","VBP"]:
@@ -16,6 +18,8 @@ if its an interrogative sentence:
 else:
 	if the sentence starts with "please/kindly" like words:
 		actionable_sentences = True
+
+```
 
 ---------------------------------------------------------------------------
 Test Via Flask API
