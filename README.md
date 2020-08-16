@@ -59,8 +59,8 @@ Multi threading
 ---------------------------------------------------------------------------
 
 ## Reference:
-https://github.com/google-research/bert
-https://spacy.io/usage/linguistic-features#dependency-parse
-https://examples.yourdictionary.com/imperative-sentence-examples.html
-https://www.englishclub.com/grammar/sentence/type-imperative.htm
-StackOverflow
+- https://github.com/google-research/bert
+- https://spacy.io/usage/linguistic-features#dependency-parse
+- https://examples.yourdictionary.com/imperative-sentence-examples.html
+- https://www.englishclub.com/grammar/sentence/type-imperative.htm
+- StackOverflow
