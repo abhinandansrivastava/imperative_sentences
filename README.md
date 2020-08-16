@@ -5,7 +5,7 @@
 In this Project, we are trying to find whether the email contains any actionable items or not.
 Basically those kind sentences are imperative in nature.
 ---------------------------------------------------------------------------
-## Logic
+## Logic 1
 
 ```
 Case:1
@@ -29,6 +29,9 @@ Test Via Flask API
 # Objective 2
 ### Use the output from objective 1 and Train a ML Model for predicting actionable sentences.
 
+## Data Preprocess
+- Balancing of Datasets
+
 ## Logic 1:
 ### BERT Binary Classification 
 ```
@@ -45,13 +48,18 @@ precision:0.9583
 F1 measure:0.8762
 ```
 
+## Challenges
+In case BERT Based model main challenge is to Host/Train the model as it requires GPU
+For TFIDF Based Model the datasets was not very large so, generalization was difficult
+
 ## Future work:
-add more cases for imperative sentences
+add more cases for imperative sentences |
 Multi threading
 
 ---------------------------------------------------------------------------
 
 ## Reference:
+https://github.com/google-research/bert
 https://spacy.io/usage/linguistic-features#dependency-parse
 https://examples.yourdictionary.com/imperative-sentence-examples.html
 https://www.englishclub.com/grammar/sentence/type-imperative.htm
