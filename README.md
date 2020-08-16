@@ -27,17 +27,16 @@ Use the output from objective 1 and Train a ML Model for predicting actionable s
 
 ## Logic 1:
 BERT Binary Classification 
-```
+
 recall:0.9796
 precision:1.0000
-F1 measure:0.9897```
+F1 measure:0.9897
 
 ## Logic 2:
 TFIDF + Logistic Regression
-```
 recall:0.8070
 precision:0.9583
-F1 measure:0.8762```
+F1 measure:0.8762
 
 ## Future work:
 add more cases for imperative sentences
