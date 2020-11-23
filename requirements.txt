@@ -4,5 +4,6 @@ nltk
 flask
 sklearn
 pandas
+tqdm
 tensorflow==1.14.0
 bert-tensorflow
