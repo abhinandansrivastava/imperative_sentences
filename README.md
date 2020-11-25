@@ -48,10 +48,6 @@ precision:0.9583
 F1 measure:0.8762
 ```
 
-## Challenges
-- In case BERT Based model main challenge is to Host/Train the model as it requires GPU
-- For TFIDF Based Model the datasets was not very large so, generalization was difficult
-
 ## Future work:
 - Add more cases for imperative sentences 
 - Multi threading
